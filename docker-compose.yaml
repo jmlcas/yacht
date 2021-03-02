@@ -10,7 +10,7 @@ services:
       - "8200:8000"
     volumes:
       - yacht:/config
-      - ./var/run/docker.sock:/var/run/docker.sock
+      - /var/run/docker.sock:/var/run/docker.sock
 
 volumes:
   yacht:
