@@ -1,5 +1,5 @@
 # yacht
-Yacht - Docker-compose
+Yacht - Gestión contenedores - Docker-compose
 
 Ver en "localhost:8200"
 
