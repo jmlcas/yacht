@@ -1,9 +1,7 @@
-version: '3'
-
 services:
 
   yacht:
-    image: selfhostedpro/yacht
+    image: selfhostedpro/yacht:latest
     container_name: yacht
     restart: unless-stopped
     ports:
