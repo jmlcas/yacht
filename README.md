@@ -1,7 +1,7 @@
 # yacht
-Yacht - Gestión contenedores - Docker-compose
 
-Ver en "localhost:8200"
+Ver en "http://localhost:8200"
+-----------------------------
 
 Usuario: admin@yacht.local 
 
