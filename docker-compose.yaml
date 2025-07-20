@@ -7,8 +7,6 @@ services:
     ports:
       - "8200:8000"
     volumes:
-      - yacht:/config
+      - ./config:/config
       - /var/run/docker.sock:/var/run/docker.sock
 
-volumes:
-  yacht:
