@@ -1,8 +1,7 @@
-# yacht
+# Yacht
 
-Ver en "http://localhost:8200"
+ver en "http://localhost:8200"
 -----------------------------
-
 Usuario: admin@yacht.local 
 
 Password: pass
